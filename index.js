@@ -4,7 +4,7 @@
  * @link https://github.com/TravisMullen/enumeration-class.git
  * @class
  */
-export class Enumeration {
+export default class Enumeration {
   constructor (obj) {
     for (const key in obj) {
       this[key] = obj[key]
@@ -21,5 +21,3 @@ export class Enumeration {
     return this.hasOwnProperty(key)
   }
 }
-
-export default Enumeration
