@@ -1,7 +1,7 @@
 /**
  * Enumeration - Immutable key value pairs.
  *
- * @link https://bitbucket.org/snippets/travismullen/6egzxX/enumeration.git
+ * @link https://github.com/TravisMullen/enumeration-class.git
  * @class
  */
 export class Enumeration {
