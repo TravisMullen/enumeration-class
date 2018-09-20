@@ -1,0 +1,25 @@
+{
+  "name": "enumeration-class",
+  "version": "1.0.0",
+  "description": "Enumeration in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravisMullen/enumeration-class.git"
+  },
+  "keywords": [
+    "enumeration",
+    "immutable",
+    "javascript",
+    "es6"
+  ],
+  "author": "Travis Mullen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TravisMullen/enumeration-class/issues"
+  },
+  "homepage": "https://github.com/TravisMullen/enumeration-class#readme"
+}
