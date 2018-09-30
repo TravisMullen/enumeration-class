@@ -26,5 +26,9 @@
   "license": "MIT",
   "files": [
     "index.js"
-  ]
+  ],
+  "devDependencies": {
+    "snazzy": "latest",
+    "standard": "latest"
+  }
 }
