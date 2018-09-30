@@ -4,7 +4,9 @@
   "description": "Enumeration in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepare": "npm run lint",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard --fix ./index.js --verbose | snazzy"
   },
   "repository": {
     "type": "git",
@@ -17,9 +19,12 @@
     "es6"
   ],
   "author": "Travis Mullen",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/TravisMullen/enumeration-class/issues"
   },
-  "homepage": "https://github.com/TravisMullen/enumeration-class#readme"
+  "homepage": "https://github.com/TravisMullen/enumeration-class#readme",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
 }

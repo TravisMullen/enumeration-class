@@ -1,4 +1,6 @@
-# enumeration-class
+# Enumeration Class
+
+Immutable Properties
 
 ## binary example
 ```js
@@ -24,3 +26,6 @@ console.info(classes.element) // prints "my-awesome-element"
 ```
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+
+## Todo
+- [ ] Add Test Coverage.
